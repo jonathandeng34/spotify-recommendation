@@ -1,4 +1,4 @@
-# gym-churn
+# spotify
 
 import pandas as pd
 
