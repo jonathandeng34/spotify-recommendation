@@ -1,42 +1,40 @@
 # Core Jupyter and notebook packages# Core Jupyter and notebook packages
 
-jupyterjupyter
+jupyter
 
-notebooknotebook
+notebook
 
-jupyterlabjupyterlab
+jupyterlab
 
-ipykernelipykernel
-
-
+ipykernel
 
 # Data manipulation and analysis# Data manipulation and analysis
 
-pandaspandas
+pandas
 
-numpynumpy
+numpy
 
 
 
 # Visualization# Visualization
 
-matplotlibmatplotlib
+matplotlib
 
-seabornseaborn
+seaborn
 
-plotlyplotly
+plotly
 
 
 
 # Machine learning# Machine learning
 
-scikit-learnscikit-learn
+scikit-learn
 
 
 
 # Utility packages# Utility packages
 
-ipywidgetsipywidgets
+ipywidgets
 executing==2.2.1
 fastjsonschema==2.21.2
 fonttools==4.60.1
