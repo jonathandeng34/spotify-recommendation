@@ -1,4 +1,4 @@
-# Gym Churn Analysis - Setup Guide
+# Spotify Recommendation Analysis - Setup Guide
 
 ## Project Overview
 This repository contains a Jupyter notebook for analyzing gym membership churn patterns using Python data science libraries.
